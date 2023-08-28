@@ -5,4 +5,13 @@ h1 {
 body {
 
     background-image: url(./imagens/projetox.jpg);
+    
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+
 }
